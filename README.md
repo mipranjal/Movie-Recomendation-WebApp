@@ -7,7 +7,7 @@ To use the app, you'll need to have Python 3 installed on your computer. You can
 Once you have Python installed, you can clone the repository to your local machine:
 
 
-git clone
+Git clone:
 ```
 https://github.com/your-username/movie-recommendation-web-app.git
 ```
@@ -22,7 +22,8 @@ cd movie-recommendation-web-app
 Install the required Python packages:
 
 ```
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 
 Start the app:
